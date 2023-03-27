@@ -1,0 +1,12 @@
+# for nodejs environment
+node_modules/
+*-error.log
+dist/
+build/
+.tmp
+.cache
+
+# others or misc.
+.DS_Store
+.exe
+.ini
