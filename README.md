@@ -119,7 +119,7 @@ To run the project, execute the following command:
 
 Execute this:
 ```sh
-  npm dev
+  npm start
 ```
 
 
