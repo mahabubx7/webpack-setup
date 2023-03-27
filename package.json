@@ -23,14 +23,16 @@
   "author": "Mahabub <mahabubx7@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "express": "^4.18.2",
+    "webpack": "^5.76.3",
+    "webpack-dev-middleware": "^6.0.2"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "css-loader": "^6.7.3",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-import": "^2.27.5",
-    "express": "^4.18.2",
     "hint": "^7.1.5",
     "html-webpack-plugin": "^5.5.0",
     "style-loader": "^3.3.2",
@@ -38,9 +40,7 @@
     "stylelint-config-standard": "^21.0.0",
     "stylelint-csstree-validator": "^1.9.0",
     "stylelint-scss": "^3.21.0",
-    "webpack": "^5.76.3",
     "webpack-cli": "^5.0.1",
-    "webpack-dev-middleware": "^6.0.2",
     "webpack-dev-server": "^4.13.1"
   }
 }
